@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Apr 04 19:08:11 PDT 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0145-2fa4-a852-000000a2e338 
+on database directory E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS  with class loader sun.misc.Launcher$AppClassLoader@35ce36 
+Loaded from file:/E:/Programs/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_27-b07
+user.dir=E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

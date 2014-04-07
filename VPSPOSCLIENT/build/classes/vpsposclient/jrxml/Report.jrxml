@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="null" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="b47299c0-9b13-4566-8394-99d45ed0243c">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<field name="amount" class="java.lang.String">
+		<fieldDescription><![CDATA[amount]]></fieldDescription>
+	</field>
+	<field name="date" class="java.lang.String">
+		<fieldDescription><![CDATA[date]]></fieldDescription>
+	</field>
+	<field name="id" class="java.lang.String">
+		<fieldDescription><![CDATA[id]]></fieldDescription>
+	</field>
+	<field name="item" class="java.lang.String">
+		<fieldDescription><![CDATA[item]]></fieldDescription>
+	</field>
+	<field name="quantity" class="java.lang.String">
+		<fieldDescription><![CDATA[quantity]]></fieldDescription>
+	</field>
+	<field name="total" class="java.lang.String">
+		<fieldDescription><![CDATA[total]]></fieldDescription>
+	</field>
+	<field name="profit" class="java.lang.String">
+		<fieldDescription><![CDATA[profit]]></fieldDescription>
+	</field>
+	<field name="totalProfit" class="java.lang.String">
+		<fieldDescription><![CDATA[totalProfit]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="53" splitType="Stretch">
+			<staticText>
+				<reportElement uuid="eebf2474-dd45-4e87-b466-407e9efcb581" x="161" y="0" width="185" height="53"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="14" isBold="true"/>
+				</textElement>
+				<text><![CDATA[TUSUBIRA SHOPPERS
+KAKINDU-KAWUKU
+Tel:0774046332/0704877754]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="29" splitType="Stretch">
+			<textField>
+				<reportElement uuid="346eb6b5-ca0c-4283-975f-60675ca02325" x="327" y="0" width="228" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{date}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="42827abf-6717-4aa6-a790-2d3638577517" x="75" y="0" width="252" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12"/>
+				</textElement>
+				<text><![CDATA[TOTAL DAY COLLECTION REPORT AS ON:]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="26" splitType="Stretch">
+			<staticText>
+				<reportElement uuid="bf67067d-f7f0-47aa-bc1f-e770d474548c" x="0" y="0" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[CODE]]></text>
+			</staticText>
+			<staticText>
+				<reportElement uuid="f7d91523-34a7-4db0-8ce5-7da2a98cacbe" x="100" y="0" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[ITEM]]></text>
+			</staticText>
+			<staticText>
+				<reportElement uuid="cacd58b9-8b27-48a1-b4f6-8a77a636ea56" x="200" y="0" width="100" height="20"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[QUANTITY]]></text>
+			</staticText>
+			<line>
+				<reportElement uuid="5e09d615-76fa-480c-85ab-716c5af5df34" x="0" y="25" width="555" height="1"/>
+			</line>
+			<staticText>
+				<reportElement uuid="be7fe332-4bfb-457e-b069-34e0c300f701" x="300" y="0" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[AMOUNT]]></text>
+			</staticText>
+			<staticText>
+				<reportElement uuid="6ce10863-529e-4191-ad39-6d4265fee267" x="415" y="2" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[PROFIT]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement uuid="d0aaec26-64e2-427f-a55d-865d186c5ea1" x="100" y="0" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{item}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="33cee204-1f3e-4cdd-a910-a4cc7e4834c8" x="200" y="0" width="100" height="20"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{quantity}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="bf83b202-3b21-4e5c-85bf-1e9c678bd7f6" x="0" y="0" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{id}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="59fe4b3e-8797-4efd-ab3f-16adec36e229" x="300" y="0" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman" size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{amount}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="4f075227-86e0-4108-89c5-2598c38ba189" x="415" y="0" width="100" height="20"/>
+				<textElement>
+					<font fontName="Times New Roman"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{profit}]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement uuid="8dc824e7-59b4-4dff-b703-b0096486e650" x="1" y="19" width="554" height="1"/>
+			</line>
+		</band>
+	</detail>
+	<columnFooter>
+		<band splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="1" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="82" splitType="Stretch">
+			<textField>
+				<reportElement uuid="9c83ca27-6e42-4c8e-b06c-5fe4c8616498" x="300" y="2" width="100" height="30"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{total}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="4902e807-30b3-4634-a265-6a42e79c3e9c" x="175" y="1" width="100" height="29"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[TOTAL]]></text>
+			</staticText>
+			<line>
+				<reportElement uuid="9f13b14d-963a-436e-a4e1-43916082d088" x="300" y="30" width="100" height="1"/>
+			</line>
+			<staticText>
+				<reportElement uuid="94625cce-6876-4ae3-8493-5984a2eb45df" x="34" y="31" width="293" height="20"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12"/>
+				</textElement>
+				<text><![CDATA[Thank you for using VPS POS to manage your stock]]></text>
+			</staticText>
+			<line>
+				<reportElement uuid="5bf77a42-77c3-4aa9-bf93-4721b3acb8df" x="300" y="1" width="100" height="1"/>
+			</line>
+			<line>
+				<reportElement uuid="6d8c4574-a045-499a-9acb-64c1535cd75e" x="415" y="2" width="100" height="1"/>
+			</line>
+			<line>
+				<reportElement uuid="e4975b70-8a29-4e96-920f-6f4efd08f52b" x="415" y="29" width="100" height="1"/>
+			</line>
+			<textField>
+				<reportElement uuid="4bb445e3-455a-436f-864a-0155d2c52d16" x="415" y="3" width="100" height="26"/>
+				<textElement>
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{totalProfit}]]></textFieldExpression>
+			</textField>
+		</band>
+	</summary>
+</jasperReport>

@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Mar 18 03:42:48 PDT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-013d-7d18-276b-000000d68b70 
+on database directory C:\Users\Royal\Documents\NetBeansProjects\VPSPOSSEVER\VPS  with class loader sun.misc.Launcher$AppClassLoader@35ce36 
+Loaded from file:/E:/Programs/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_27-b07
+user.dir=C:\Users\Royal\Documents\NetBeansProjects\VPSPOSSEVER
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
