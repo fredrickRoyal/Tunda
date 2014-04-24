@@ -1,0 +1,213 @@
+Thu Mar 13 22:25:35 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\4\VPS.
+Thu Mar 13 22:25:44 PDT 2014:Backup of data segment to C:\mybackups\4\VPS\seg0 completed. 
+Thu Mar 13 22:25:45 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\4\VPS\log
+Thu Mar 13 22:25:45 PDT 2014:Backup completed, log instant at (17,385579) 
+
+Thu Mar 13 22:28:08 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\4\VPS.
+Thu Mar 13 22:28:08 PDT 2014:moved old backup copy from C:\mybackups\4\VPS to C:\mybackups\4\VPS.OLD
+Thu Mar 13 22:28:13 PDT 2014:Backup of data segment to C:\mybackups\4\VPS\seg0 completed. 
+Thu Mar 13 22:28:14 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\4\VPS\log
+Thu Mar 13 22:28:14 PDT 2014:removed old backup copy at C:\mybackups\4\VPS.OLD
+Thu Mar 13 22:28:14 PDT 2014:Backup completed, log instant at (17,385803) 
+
+Thu Mar 13 23:03:04 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\en_US\VPS.
+Thu Mar 13 23:03:14 PDT 2014:Backup of data segment to C:\mybackups\en_US\VPS\seg0 completed. 
+Thu Mar 13 23:03:14 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\en_US\VPS\log
+Thu Mar 13 23:03:14 PDT 2014:Backup completed, log instant at (17,398671) 
+
+Thu Mar 13 23:04:35 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:04:41 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:04:42 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:04:42 PDT 2014:Backup completed, log instant at (17,403347) 
+
+Thu Mar 13 23:09:48 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:09:54 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:09:54 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:09:54 PDT 2014:Backup completed, log instant at (17,408023) 
+
+Thu Mar 13 23:11:36 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:11:36 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Thu Mar 13 23:11:42 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:11:42 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:11:42 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Thu Mar 13 23:11:42 PDT 2014:Backup completed, log instant at (17,412699) 
+
+Thu Mar 13 23:24:39 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:24:39 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Thu Mar 13 23:24:47 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:24:47 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:24:47 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Thu Mar 13 23:24:47 PDT 2014:Backup completed, log instant at (17,417375) 
+
+Thu Mar 13 23:26:55 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:26:55 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Thu Mar 13 23:27:02 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:27:02 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:27:02 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Thu Mar 13 23:27:02 PDT 2014:Backup completed, log instant at (17,422051) 
+
+Thu Mar 13 23:52:04 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:52:04 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Thu Mar 13 23:52:11 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:52:11 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:52:11 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Thu Mar 13 23:52:11 PDT 2014:Backup completed, log instant at (17,426727) 
+
+Thu Mar 13 23:53:17 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:53:17 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Thu Mar 13 23:53:26 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:53:26 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:53:26 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Thu Mar 13 23:53:26 PDT 2014:Backup completed, log instant at (17,431403) 
+
+Thu Mar 13 23:59:07 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Thu Mar 13 23:59:07 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Thu Mar 13 23:59:13 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Thu Mar 13 23:59:13 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Thu Mar 13 23:59:13 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Thu Mar 13 23:59:13 PDT 2014:Backup completed, log instant at (17,439221) 
+
+Fri Mar 14 00:04:19 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Fri Mar 14 00:04:19 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Fri Mar 14 00:04:26 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Fri Mar 14 00:04:26 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Fri Mar 14 00:04:27 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Fri Mar 14 00:04:27 PDT 2014:Backup completed, log instant at (17,559787) 
+
+Fri Mar 14 00:08:10 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\VPS.
+Fri Mar 14 00:08:10 PDT 2014:moved old backup copy from C:\mybackups\VPS to C:\mybackups\VPS.OLD
+Fri Mar 14 00:08:17 PDT 2014:Backup of data segment to C:\mybackups\VPS\seg0 completed. 
+Fri Mar 14 00:08:18 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\VPS\log
+Fri Mar 14 00:08:18 PDT 2014:removed old backup copy at C:\mybackups\VPS.OLD
+Fri Mar 14 00:08:18 PDT 2014:Backup completed, log instant at (17,560011) 
+
+Fri Mar 14 00:21:18 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\2014-03-14-00-21-18\VPS.
+Fri Mar 14 00:21:27 PDT 2014:Backup of data segment to C:\mybackups\2014-03-14-00-21-18\VPS\seg0 completed. 
+Fri Mar 14 00:21:27 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\2014-03-14-00-21-18\VPS\log
+Fri Mar 14 00:21:27 PDT 2014:Backup completed, log instant at (17,578604) 
+
+Fri Mar 14 00:22:36 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\2014-03-14-00-22-36\VPS.
+Fri Mar 14 00:22:43 PDT 2014:Backup of data segment to C:\mybackups\2014-03-14-00-22-36\VPS\seg0 completed. 
+Fri Mar 14 00:22:43 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\2014-03-14-00-22-36\VPS\log
+Fri Mar 14 00:22:43 PDT 2014:Backup completed, log instant at (17,578828) 
+
+Fri Mar 14 00:26:02 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\2014-03-14-00-26-02\VPS.
+Fri Mar 14 00:26:10 PDT 2014:Backup of data segment to C:\mybackups\2014-03-14-00-26-02\VPS\seg0 completed. 
+Fri Mar 14 00:26:10 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\2014-03-14-00-26-02\VPS\log
+Fri Mar 14 00:26:10 PDT 2014:Backup completed, log instant at (17,579052) 
+
+Fri Mar 14 00:36:33 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\2014-03-14-00-36-33\VPS.
+Fri Mar 14 00:36:40 PDT 2014:Backup of data segment to C:\mybackups\2014-03-14-00-36-33\VPS\seg0 completed. 
+Fri Mar 14 00:36:40 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\2014-03-14-00-36-33\VPS\log
+Fri Mar 14 00:36:40 PDT 2014:Backup completed, log instant at (17,583728) 
+
+Fri Mar 14 00:53:49 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\2014-03-14-00-53-49\VPS.
+Fri Mar 14 00:53:56 PDT 2014:Backup of data segment to C:\mybackups\2014-03-14-00-53-49\VPS\seg0 completed. 
+Fri Mar 14 00:53:56 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\2014-03-14-00-53-49\VPS\log
+Fri Mar 14 00:53:56 PDT 2014:Backup completed, log instant at (17,588404) 
+
+Fri Mar 14 00:57:42 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\mybackups\2014-03-14-00-57-42\VPS.
+Fri Mar 14 00:57:51 PDT 2014:Backup of data segment to C:\mybackups\2014-03-14-00-57-42\VPS\seg0 completed. 
+Fri Mar 14 00:57:51 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\mybackups\2014-03-14-00-57-42\VPS\log
+Fri Mar 14 00:57:51 PDT 2014:Backup completed, log instant at (17,593080) 
+
+Fri Mar 14 01:02:40 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to E:\2014-03-14-01-02-40\VPS.
+Fri Mar 14 01:02:47 PDT 2014:Backup of data segment to E:\2014-03-14-01-02-40\VPS\seg0 completed. 
+Fri Mar 14 01:02:47 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to E:\2014-03-14-01-02-40\VPS\log
+Fri Mar 14 01:02:47 PDT 2014:Backup completed, log instant at (17,600898) 
+
+Fri Mar 14 01:04:49 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to E:\DataBaseBackUps\2014-03-14-01-04-49\VPS.
+Fri Mar 14 01:04:54 PDT 2014:Backup of data segment to E:\DataBaseBackUps\2014-03-14-01-04-49\VPS\seg0 completed. 
+Fri Mar 14 01:04:55 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to E:\DataBaseBackUps\2014-03-14-01-04-49\VPS\log
+Fri Mar 14 01:04:55 PDT 2014:Backup completed, log instant at (17,605574) 
+
+Fri Mar 14 01:08:23 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to E:\DataBaseBackUps\2014-03-14-01-08-23\VPS.
+Fri Mar 14 01:08:28 PDT 2014:Backup of data segment to E:\DataBaseBackUps\2014-03-14-01-08-23\VPS\seg0 completed. 
+Fri Mar 14 01:08:28 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to E:\DataBaseBackUps\2014-03-14-01-08-23\VPS\log
+Fri Mar 14 01:08:28 PDT 2014:Backup completed, log instant at (17,605798) 
+
+Fri Mar 14 01:11:39 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to E:\DataBaseBackUps\2014-03-14-01-11-39\VPS.
+Fri Mar 14 01:11:45 PDT 2014:Backup of data segment to E:\DataBaseBackUps\2014-03-14-01-11-39\VPS\seg0 completed. 
+Fri Mar 14 01:11:45 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to E:\DataBaseBackUps\2014-03-14-01-11-39\VPS\log
+Fri Mar 14 01:11:45 PDT 2014:Backup completed, log instant at (17,610474) 
+
+Fri Mar 14 07:42:30 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-07-42-30\VPS.
+Fri Mar 14 07:42:34 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-07-42-30\VPS\seg0 completed. 
+Fri Mar 14 07:42:34 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-07-42-30\VPS\log
+Fri Mar 14 07:42:34 PDT 2014:Backup completed, log instant at (17,615150) 
+
+Fri Mar 14 07:50:34 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-07-50-33\VPS.
+Fri Mar 14 07:50:38 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-07-50-33\VPS\seg0 completed. 
+Fri Mar 14 07:50:38 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-07-50-33\VPS\log
+Fri Mar 14 07:50:38 PDT 2014:Backup completed, log instant at (17,619826) 
+
+Fri Mar 14 07:54:41 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-07-54-41\VPS.
+Fri Mar 14 07:54:45 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-07-54-41\VPS\seg0 completed. 
+Fri Mar 14 07:54:45 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-07-54-41\VPS\log
+Fri Mar 14 07:54:45 PDT 2014:Backup completed, log instant at (17,624502) 
+
+Fri Mar 14 07:56:35 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-07-56-35\VPS.
+Fri Mar 14 07:56:40 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-07-56-35\VPS\seg0 completed. 
+Fri Mar 14 07:56:40 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-07-56-35\VPS\log
+Fri Mar 14 07:56:40 PDT 2014:Backup completed, log instant at (17,629178) 
+
+Fri Mar 14 08:02:23 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-02-23\VPS.
+Fri Mar 14 08:02:27 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-02-23\VPS\seg0 completed. 
+Fri Mar 14 08:02:28 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-02-23\VPS\log
+Fri Mar 14 08:02:28 PDT 2014:Backup completed, log instant at (17,633854) 
+
+Fri Mar 14 08:03:18 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-03-18\VPS.
+Fri Mar 14 08:03:22 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-03-18\VPS\seg0 completed. 
+Fri Mar 14 08:03:22 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-03-18\VPS\log
+Fri Mar 14 08:03:22 PDT 2014:Backup completed, log instant at (17,641504) 
+
+Fri Mar 14 08:06:42 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-06-42\VPS.
+Fri Mar 14 08:06:47 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-06-42\VPS\seg0 completed. 
+Fri Mar 14 08:06:47 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-06-42\VPS\log
+Fri Mar 14 08:06:47 PDT 2014:Backup completed, log instant at (17,646180) 
+
+Fri Mar 14 08:13:23 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-13-23\VPS.
+Fri Mar 14 08:13:27 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-13-23\VPS\seg0 completed. 
+Fri Mar 14 08:13:27 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-13-23\VPS\log
+Fri Mar 14 08:13:27 PDT 2014:Backup completed, log instant at (17,660134) 
+
+Fri Mar 14 08:15:04 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-15-04\VPS.
+Fri Mar 14 08:15:08 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-15-04\VPS\seg0 completed. 
+Fri Mar 14 08:15:08 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-15-04\VPS\log
+Fri Mar 14 08:15:08 PDT 2014:Backup completed, log instant at (17,664810) 
+
+Fri Mar 14 08:36:24 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-36-24\VPS.
+Fri Mar 14 08:36:28 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-36-24\VPS\seg0 completed. 
+Fri Mar 14 08:36:29 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-36-24\VPS\log
+Fri Mar 14 08:36:29 PDT 2014:Backup completed, log instant at (17,674125) 
+
+Fri Mar 14 08:36:52 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-36-52\VPS.
+Fri Mar 14 08:36:56 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-36-52\VPS\seg0 completed. 
+Fri Mar 14 08:36:56 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-36-52\VPS\log
+Fri Mar 14 08:36:56 PDT 2014:Backup completed, log instant at (17,674349) 
+
+Fri Mar 14 08:38:21 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-08-38-21\VPS.
+Fri Mar 14 08:38:25 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-08-38-21\VPS\seg0 completed. 
+Fri Mar 14 08:38:25 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-08-38-21\VPS\log
+Fri Mar 14 08:38:25 PDT 2014:Backup completed, log instant at (17,682167) 
+
+Fri Mar 14 08:38:47 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\Users\Royal\Desktop\DataBaseBackUps\2014-03-14-08-38-47\VPS.
+Fri Mar 14 08:38:56 PDT 2014:Backup of data segment to C:\Users\Royal\Desktop\DataBaseBackUps\2014-03-14-08-38-47\VPS\seg0 completed. 
+Fri Mar 14 08:38:56 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\Users\Royal\Desktop\DataBaseBackUps\2014-03-14-08-38-47\VPS\log
+Fri Mar 14 08:38:56 PDT 2014:Backup completed, log instant at (17,682391) 
+
+Fri Mar 14 09:10:38 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-09-10-38\VPS.
+Fri Mar 14 09:10:42 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-09-10-38\VPS\seg0 completed. 
+Fri Mar 14 09:10:42 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-09-10-38\VPS\log
+Fri Mar 14 09:10:42 PDT 2014:Backup completed, log instant at (17,776143) 
+
+Fri Mar 14 11:07:42 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to D:\DataBaseBackUps\2014-03-14-11-07-42\VPS.
+Fri Mar 14 11:07:46 PDT 2014:Backup of data segment to D:\DataBaseBackUps\2014-03-14-11-07-42\VPS\seg0 completed. 
+Fri Mar 14 11:07:46 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to D:\DataBaseBackUps\2014-03-14-11-07-42\VPS\log
+Fri Mar 14 11:07:46 PDT 2014:Backup completed, log instant at (17,862213) 
+
+Sun Mar 16 19:38:04 PDT 2014:Backup started for database located at E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS to C:\Users\Royal\Desktop\DataBaseBackUps\2014-03-16-19-38-04\VPS.
+Sun Mar 16 19:38:16 PDT 2014:Backup of data segment to C:\Users\Royal\Desktop\DataBaseBackUps\2014-03-16-19-38-04\VPS\seg0 completed. 
+Sun Mar 16 19:38:17 PDT 2014:copied log directory from E:\Projects\POS Delopyment\Tusubira\VPSPOSCLIENT\VPS\log to C:\Users\Royal\Desktop\DataBaseBackUps\2014-03-16-19-38-04\VPS\log
+Sun Mar 16 19:38:17 PDT 2014:Backup completed, log instant at (18,573959) 
+
